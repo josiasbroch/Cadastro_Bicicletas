@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bicicletas>
+    <bicicleta numero="86">
+        <descricao>
+            <marca>KSW</marca>
+            <modelo>Tx KRW20</modelo>
+            <categoria>Passeio</categoria>
+            <cor>Preta</cor>
+            <aro>29</aro>
+            <marchas>24</marchas>
+        </descricao>
+            <condicao>
+                <status>Estoque</status>
+                <preco>1249.90</preco>
+            </condicao>
+    </bicicleta>
+    <bicicleta numero="154">
+        <descricao>
+            <marca>Caloi</marca>
+            <modelo>Strada Racing</modelo>
+            <categoria>Corrida</categoria>
+            <cor>Vermelha</cor>
+            <aro>700</aro>
+            <marchas>20</marchas>
+        </descricao>
+            <condicao>
+                <status>Esgotado</status>
+                <preco>3268.99</preco>
+            </condicao>
+    </bicicleta>
+</bicicletas>
